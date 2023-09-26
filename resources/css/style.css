@@ -13,3 +13,17 @@ body {
 a {
     color: rgb(28, 200, 200);
 }
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+p {
+    color: gray;
+    font-size: 21px;
+}
+
+#camp {
+    width: 100%;
+}
