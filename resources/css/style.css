@@ -1,8 +1,15 @@
 h1 {
-    margin: 0 auto;
+    font-size: 50px;
+    font-weight: normal;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, sans-serif;
     color: white;
 }
 
-html {
-    background-color: black;
+a {
+    color: rgb(28, 200, 200);
 }
